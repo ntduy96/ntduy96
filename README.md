@@ -1,5 +1,10 @@
-### Hi there 👋
+### ようこそ、ユイです 👋
+- 🏢 [Techbase Vietnam](https://www.techbasevn.com) 会社で働いています。
+- 🔭 PHPやGolangやJavaで利用しています。
+- 🏠 ホーチミン市に住んでいます。
+- 📚 日本語を習っています。
 
+✨ **よろしくお願いします** 🙇🏻
 <!--
 **ntduy96/ntduy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
